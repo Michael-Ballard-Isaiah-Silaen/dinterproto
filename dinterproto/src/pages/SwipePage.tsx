@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Slider from "react-slick";
 import { FaSpotify, FaTiktok, FaHeart, FaTimes } from "react-icons/fa";
 import { MOCK_PROFILES } from "../data/mockData";
