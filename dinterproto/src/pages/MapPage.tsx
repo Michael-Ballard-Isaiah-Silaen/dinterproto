@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { MOCK_DATE_SPOTS } from "../data/mockData";
